@@ -1,0 +1,11 @@
+{
+    "aliasBankAcctId": {},
+    "bankAcctId": {
+        "acctId": "000000125001",
+        "acctType": "LN"
+    },
+    "rqUID": {},
+    "recCtrlIn": {
+        "maxRec": 100
+    }
+}

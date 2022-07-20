@@ -1,0 +1,103 @@
+{
+  "rqUID": {
+    "rqUID": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  },
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "string",
+    "supportUID": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "supportDescription": "string",
+    "errorCount": 0,
+    "errors": [
+      {
+        "source": "string",
+        "errNum": "string",
+        "errDesc": "string",
+        "errDtl": "string",
+        "errField": "string",
+        "errTagName": "string",
+        "hostErrCode": "string",
+        "useCode": "string",
+        "supportUID": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+      }
+    ]
+  },
+  "bankAcctId": {
+    "acctType": "string",
+    "acctId": "string",
+    "acctIdMasked": "string"
+  },
+  "aliasBankAcctId": {
+    "aliasAcctType": "string",
+    "aliasAcctId": "string"
+  },
+  "summaryFeeBalancesInfo": {
+    "assessedToDateFee1": {
+      "amt": 0
+    },
+    "paidToDateFee1": {
+      "amt": 0
+    },
+    "amountDueFee1": {
+      "amt": 0
+    },
+    "assessedToDateFee2": {
+      "amt": 0
+    },
+    "paidToDateFee2": {
+      "amt": 0
+    },
+    "amountDueFee2": {
+      "amt": 0
+    },
+    "assessedToDateFee3": {
+      "amt": 0
+    },
+    "paidToDateFee3": {
+      "amt": 0
+    },
+    "amountDueFee3": {
+      "amt": 0
+    }
+  },
+  "monthToDateAmountsInfo": {
+    "assessedMTDFee1": {
+      "amt": 0
+    },
+    "paidMTDFee1": {
+      "amt": 0
+    },
+    "assessedMTDFee2": {
+      "amt": 0
+    },
+    "paidMTDFee2": {
+      "amt": 0
+    },
+    "assessedMTDFee3": {
+      "amt": 0
+    },
+    "paidMTDFee3": {
+      "amt": 0
+    }
+  },
+  "yearToDateAmountsInfo": {
+    "assessedYTDFee1": {
+      "amt": 0
+    },
+    "paidYTDFee1": {
+      "amt": 0
+    },
+    "assessedYTDFee2": {
+      "amt": 0
+    },
+    "paidYTDFee2": {
+      "amt": 0
+    },
+    "assessedYTDFee3": {
+      "amt": 0
+    },
+    "paidYTDFee3": {
+      "amt": 0
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBzdUxzbTVtNFE2U0ZxQWJHQnp4MU5BPT0=",
+    "acctIdMasked": "*********8040"
+  },
+  "timesToUse": 0,
+  "period": "No interest-only period",
+  "periodValue": " ",
+  "frequency": 0,
+  "specificDay": 0
+}

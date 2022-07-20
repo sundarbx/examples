@@ -1,0 +1,42 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBka2xZSUdJWGhNWlZvZGdmOFMrRy9BPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "nonAccrualInfo": {
+    "nonAccrualCode": "Loan is not in non-accrual",
+    "nonAccrualFlagValue": " ",
+    "nonAccrualInterest": {
+      "amt": "0.00000"
+    },
+    "nonAccrualLateInterest": {
+      "amt": "0.00"
+    },
+    "nonAccrualPenaltyInterest": {
+      "amt": "0.00000"
+    }
+  },
+  "chargeOffInfo": {
+    "chargeOffCode": " ",
+    "chargeOffCodeValue": " ",
+    "chargeOffInterest": {
+      "amt": "0.00"
+    },
+    "chargeOffPrincipal": {
+      "amt": "0.00"
+    },
+    "interestInChargeOff": {
+      "amt": "0.00000"
+    },
+    "penaltyInterestOnChargeOff": {
+      "amt": "0.00000"
+    }
+  }
+}

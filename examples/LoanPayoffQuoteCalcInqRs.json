@@ -1,0 +1,241 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "overrideError": {},
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiA1ZDB0VlFmWUhrL2ZHcHJhZStqOUhnPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "loanPayoffQuote": {
+    "bankAcctId": {
+      "acctId": "QUVTOiBkUUkrbDQrQ00yZFRQaUhSdkhZRDBRUVNJYVVkWS9PN2NHZW9QRUJiNnBRPQ==",
+      "acctIdMasked": "********000000008572"
+    },
+    "shortName": "MARTIN DEVON",
+    "curCode": "HKD",
+    "payoffQuoteDesc1": "",
+    "payoffQuoteDesc2": "",
+    "payoffQuoteDesc3": "",
+    "payoffQuoteDesc4": "",
+    "addr": {
+      "addr1": "",
+      "addr2": "",
+      "addr3": "",
+      "addr4": "",
+      "addr5": "",
+      "postalCode": "",
+      "zipCode": "",
+      "zipSuffix": ""
+    },
+    "payoffQuoteTo": "",
+    "effDt": "2022-07-05",
+    "payoffQuoteDt": "2022-07-05",
+    "payoffQuoteExpDt": "2022-07-05",
+    "payoffPenaltyDays": "0",
+    "dailyIntFlag": true,
+    "dailyIntFactor": 126.38888,
+    "acctBals": [
+      {
+        "balType": "PrincipalAmount",
+        "curAmt": {
+          "amt": "350000.00"
+        }
+      },
+      {
+        "balType": "InterestDue",
+        "curAmt": {
+          "amt": "55358.33"
+        }
+      },
+      {
+        "balType": "InterestRebate",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "LateFeeDue",
+        "curAmt": {
+          "amt": "1589.35"
+        }
+      },
+      {
+        "balType": "PenaltyInterestDue",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "Fee12OrLeviesDue",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "Fee3Due",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "ChargeOffAmount",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "UnpaidInsurance",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "EscrowBalance",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "TotalOfRebates",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "PenaltyAmount",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "PayoffFeeAmount",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "Tax1Amount",
+        "curAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "balType": "NetPayoff",
+        "curAmt": {
+          "amt": "406947.68"
+        }
+      }
+    ],
+    "netToCloseDifferFlag": false,
+    "netToCloseDiffer": {
+      "acctBals": [
+        {
+          "balType": "PrincipalAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "InterestDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "InterestRebate",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "LateFeeDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PenaltyInterestDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "Fee12OrLeviesDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "Fee3Due",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "ChargeOffAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "UnpaidInsurance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "EscrowBalance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "TotalOfRebates",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PayoffFeeAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PenaltyAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "Tax1Amount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "NetPayoff",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "NetToCloseDifferential",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        }
+      ],
+      "intDueFlag": false
+    },
+    "addPayoffQuoteFlag": false,
+    "intRebateFlag": false,
+    "intFlag": true,
+    "interestComputationCode": "Simple interest"
+  }
+}

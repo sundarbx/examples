@@ -1,0 +1,23 @@
+{
+    "rqUID": {},
+    "bankAcctId": {
+        "acctId": "8572",
+        "acctType": "LN"
+    },
+    "aliasBankAcctId": {},
+    "loanPayoffQuoteCalcInfo": {
+        "loanPayoffQuoteFlag": true,
+        "effDt": "2022-07-05"
+    },
+    "loanPayoffPenaltyInfo": {
+        "payoffFeeAmt": {
+            "amt": "0.00"
+        },
+        "payoffPenaltyAmt": {
+            "amt": "0.00"
+        },
+        "payoffPenaltyDays": "0",
+        "payoffPenaltyFlag": false
+    },
+    "overrideAllFlag": true
+}

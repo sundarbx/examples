@@ -1,0 +1,28 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiA3QU1hWXJPSkVuSDVyZUhtNUlmSkxBPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "insuranceCalcOption": "None",
+  "insuranceCalculationOptionValue": "0",
+  "insuranceBillingRate": 0,
+  "insuranceAssessedUnpaid": {
+    "amt": "0.00"
+  },
+  "insurancePaidMTD": {
+    "amt": "0.00"
+  },
+  "insurancePaidYTD": {
+    "amt": "0.00"
+  },
+  "insurancePaidLastYear": {
+    "amt": "0.00"
+  }
+}

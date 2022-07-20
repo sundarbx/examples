@@ -1,0 +1,11 @@
+{
+    "aliasBankAcctId": {},
+    "bankAcctId": {
+        "acctId": "8572",
+        "acctType": "LN"
+    },
+    "rqUID": {},
+    "recCtrlIn": {
+        "cursor": "00205"
+    }
+}

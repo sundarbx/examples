@@ -1,0 +1,102 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBmSlp6L3VXNlhXdVNFUmg4NkVQYzNRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "aliasBankAcctId": {},
+  "loanAccountInfo": {
+    "currency": "HKD",
+    "accountStatus": "Open",
+    "loanDate": "2021-04-23",
+    "maturityDate": "2043-04-30",
+    "loanCategory": "Commercial loan 1",
+    "productCode": "4",
+    "productDescription": "SIMPLE INT COMMERCIAL LOAN    ",
+    "branch": {
+      "branchNumber": 1,
+      "branchDescription": "Pine Hills"
+    },
+    "officer1": {
+      "officerCode": "102",
+      "officerDescription": "TTMF Officer 2"
+    },
+    "officer2": {
+      "officerCode": "102",
+      "officerDescription": "TTMF Officer 2"
+    },
+    "term": 265,
+    "faceAmount": {
+      "amt": "350000.00"
+    },
+    "balance": {
+      "amt": "350000.00"
+    },
+    "balanceLcye": {
+      "amt": "350000.00"
+    },
+    "availableAmount": {
+      "amt": "0"
+    },
+    "totalAmountDisbursed": {
+      "amt": "350000.00"
+    },
+    "extraPrincipalPayments": {
+      "amt": "0.00"
+    },
+    "interestDue": {
+      "amt": "55358.33"
+    },
+    "payoffPenaltyAmount": {
+      "amt": "0.00"
+    },
+    "payoffAmount": {
+      "amt": "406947.68"
+    },
+    "interestType": "Simple interest",
+    "interestComputation": "Simple Interest",
+    "interestRate": 13,
+    "rateEffectiveDate": "2021-04-23",
+    "dailyFactor": 126.38888,
+    "interestGuaranteeCode": "Rate changes with index",
+    "indexNumber": 3,
+    "indexDescription": "CIB PRIME                ",
+    "indexRate": 14,
+    "variance": -1,
+    "multiplier": 0,
+    "nextPaymentDate": "2022-07-30",
+    "nextPaymentAmount": {
+      "amt": "4025.79"
+    },
+    "nextPrincipalAmount": {
+      "amt": "234.13"
+    },
+    "nextInterestAmount": {
+      "amt": "3791.66"
+    },
+    "scheduledPnIPaymentAmount": {
+      "amt": "4025.79"
+    },
+    "scheduledPaymentType": "Principal and interest",
+    "remainingNumberofPayments": 265,
+    "oldestPaymentDate": "2021-04-30",
+    "daysPastDue": 430,
+    "totalPastDueAmount": {
+      "amt": "60317.23"
+    },
+    "lastPaymentAmount": {
+      "amt": "0.00"
+    },
+    "redrawFlag": "Re-draw not allowed",
+    "accrualYearBase": "ACT / 360",
+    "creditLineNumber": {},
+    "sublimitNumber": 0,
+    "creditLineAvailFlag": "Do not earmark available amount",
+    "adjustAvailableToDisb": " "
+  }
+}

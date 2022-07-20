@@ -1,0 +1,49 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 1
+  },
+  "custId": {
+    "custPermId": "QUVTOiBwUkZBV3BZbHo0UDVtWVQzYnV3cTlnPT0=",
+    "custPermIdMasked": "******1096"
+  },
+  "clSelctCustCreditLines": [
+    {
+      "customerLineNumber": {
+        "custCreditLineNbr": "QUVTOiA5Mmt3NHVNQXpxVG01cWtJZS9YUS93PT0=",
+        "custCreditLineNbrMasked": "********185"
+      },
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "balanceOutstanding": {
+        "amt": "0.00"
+      },
+      "availableAmountOfLine": {
+        "amt": "100000.00"
+      },
+      "currencyCodeOfLine": "HKD",
+      "revolvingNonRevolvingDesc": "Revolving line",
+      "lineExpiryDate": "2017-02-28",
+      "creditLineAvailabilityFlg": "0",
+      "creditLineAvailabilityFlgDesc": "No",
+      "creditLineStatusDesc": "Active",
+      "lineAmountLCYE": {
+        "amt": "100000.00"
+      },
+      "balanceOutstandingLCYE": {
+        "amt": "0.00"
+      },
+      "availableAmountOfLineLCYE": {
+        "amt": "100000.00"
+      },
+      "lineProcessThruDate": "2022-07-11",
+      "accountPledgeAmount": {}
+    }
+  ]
+}

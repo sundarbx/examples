@@ -1,0 +1,31 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "custId": {
+    "custPermId": "QUVTOiBpaTE4Tk9UU3RXYkl5SUNEOUFQM0JBPT0=",
+    "custPermIdMasked": "******0579"
+  },
+  "creditLineNumber": {
+    "custCreditLineNbr": "QUVTOiBZK0pWV0taaEJldnMzSFpaVm5Kb3lnPT0=",
+    "custCreditLineNbrMasked": "*******0099"
+  },
+  "daysOutOfDebtDetails": {
+    "highestConsecutiveDaysOutOfDebt": 0,
+    "lastConsecutiveDaysOutOfDebt": 0,
+    "totalsDaysOutOfDebtCurrentYear": 192,
+    "totalDaysOutOfDebtPreviousYear": 365
+  },
+  "overlineDetails": {
+    "daysCurrentlyOverline": 0,
+    "amountCurrentlyOverline": {
+      "amt": "0"
+    },
+    "amountOfHighestOverline": {
+      "amt": "0"
+    },
+    "previousDaysOverline": 0
+  }
+}

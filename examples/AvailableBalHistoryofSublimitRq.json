@@ -1,0 +1,12 @@
+{
+    "recCtrlIn": {
+        "cursor": "",
+        "maxRec": 20
+    },
+    "rqUID": {},
+    "creditLineNumber": {
+        "custCreditLineNbr": "0099"
+    },
+    "sequence": "DESC",
+    "sublimit": 118
+}

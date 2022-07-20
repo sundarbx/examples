@@ -1,0 +1,445 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 4
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBnOE1IRjBscFh2dDM2YVdVdlpXenRRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "sequence": "DESC",
+  "transactionList": [
+    {
+      "transactionCode1": 90,
+      "transactionCode2": 3,
+      "transactionDates": {
+        "postingDate": "2021-04-23",
+        "effectiveDate": "2021-04-23",
+        "paidToDate": "2021-04-23",
+        "processThroughDate": "2021-04-25"
+      },
+      "transactionDetail": [
+        {
+          "description": "Deduction Credit",
+          "edit": "A",
+          "amount": {
+            "amt": "500.00"
+          }
+        }
+      ],
+      "majorAmounts": {
+        "principalAmount": {},
+        "interestAmount": {},
+        "otherAmounts": {
+          "amt": "500.00"
+        }
+      },
+      "transactionAmount": {
+        "amt": "500.00"
+      },
+      "transactionAmountLcye": {
+        "amt": "0.00"
+      },
+      "balanceAfterPosting": {
+        "runningBalance": {
+          "amt": "350000.00"
+        },
+        "interest": {
+          "amt": "0.00"
+        },
+        "accrualBalance": {
+          "amt": "0.00"
+        },
+        "escrow1": {
+          "amt": "0.00"
+        },
+        "escrow2": {
+          "amt": "0.00"
+        },
+        "chargeOffInterst": {
+          "amt": "0.00000"
+        },
+        "chargeOffPrincipal": {
+          "amt": "0.00"
+        }
+      },
+      "balanceMovement": "None",
+      "shortDescription": "DEDUCT CREDIT",
+      "fullDescription": "NON-REBATABLE DEDUCTION CREDIT",
+      "secondaryDescription": "ATTORNEY FEES                 ",
+      "nonAccrualChargeOffFlag": "In Accrual",
+      "nonAccrualChargeOffFlagCode": " ",
+      "postingData": {
+        "transactionNumber": 4,
+        "transactionSource": "Tran Server",
+        "transactionSourceCode": "S",
+        "batchSequenceNumber": 135222,
+        "workStationId": "H001424271",
+        "userId1": "DEMOTTMTT2",
+        "userId2": "DEMOTTMTT2",
+        "overrideCode": "Yes",
+        "overrideCodeValue": "Y",
+        "originatingBranch": "Pine Hills",
+        "originatingBranchValue": 1,
+        "transactionTimeStamp": "2021-04-24 01:52:20",
+        "timeOfTheDay": {
+          "hour": 13,
+          "minute": 52,
+          "second": 21
+        }
+      },
+      "originatorDetails": {},
+      "clearingSymbols": {},
+      "accountData": {
+        "previousInterestRate": 13,
+        "newInterestRate": 13,
+        "accrualBalanceOption": "Normal loan, use principal balance",
+        "accrualBalanceCodeValue": " ",
+        "branch": "Pine Hills",
+        "branchNumberValue": 1,
+        "productType": 4,
+        "interestType": "Simple interest",
+        "interestTypeValue": "1",
+        "currency": "HKD",
+        "currencyCodeValue": 0,
+        "accrualBase": "Actual Day Month",
+        "accrualBaseValue": "2",
+        "yearBase": "360 Day Year",
+        "yearBaseValue": "1"
+      },
+      "exceptionFlag": "",
+      "nonAccrualInterest": {
+        "amt": "0.00000"
+      }
+    },
+    {
+      "transactionCode1": 90,
+      "transactionCode2": 2,
+      "transactionDates": {
+        "postingDate": "2021-04-23",
+        "effectiveDate": "2021-04-23",
+        "paidToDate": "2021-04-23",
+        "processThroughDate": "2021-04-25"
+      },
+      "transactionDetail": [
+        {
+          "description": "Deduction Credit",
+          "edit": "A",
+          "amount": {
+            "amt": "500.00"
+          }
+        }
+      ],
+      "majorAmounts": {
+        "principalAmount": {},
+        "interestAmount": {},
+        "otherAmounts": {
+          "amt": "500.00"
+        }
+      },
+      "transactionAmount": {
+        "amt": "500.00"
+      },
+      "transactionAmountLcye": {
+        "amt": "0.00"
+      },
+      "balanceAfterPosting": {
+        "runningBalance": {
+          "amt": "350000.00"
+        },
+        "interest": {
+          "amt": "0.00"
+        },
+        "accrualBalance": {
+          "amt": "0.00"
+        },
+        "escrow1": {
+          "amt": "0.00"
+        },
+        "escrow2": {
+          "amt": "0.00"
+        },
+        "chargeOffInterst": {
+          "amt": "0.00000"
+        },
+        "chargeOffPrincipal": {
+          "amt": "0.00"
+        }
+      },
+      "balanceMovement": "None",
+      "shortDescription": "DEDUCT CREDIT",
+      "fullDescription": "NON-REBATABLE DEDUCTION CREDIT",
+      "secondaryDescription": "Non-interest bearing escrow",
+      "nonAccrualChargeOffFlag": "In Accrual",
+      "nonAccrualChargeOffFlagCode": " ",
+      "postingData": {
+        "transactionNumber": 3,
+        "transactionSource": "Tran Server",
+        "transactionSourceCode": "S",
+        "batchSequenceNumber": 135221,
+        "workStationId": "H001424271",
+        "userId1": "DEMOTTMTT2",
+        "userId2": "DEMOTTMTT2",
+        "overrideCode": "Yes",
+        "overrideCodeValue": "Y",
+        "originatingBranch": "Pine Hills",
+        "originatingBranchValue": 1,
+        "transactionTimeStamp": "2021-04-24 01:52:20",
+        "timeOfTheDay": {
+          "hour": 13,
+          "minute": 52,
+          "second": 20
+        }
+      },
+      "originatorDetails": {},
+      "clearingSymbols": {},
+      "accountData": {
+        "previousInterestRate": 13,
+        "newInterestRate": 13,
+        "accrualBalanceOption": "Normal loan, use principal balance",
+        "accrualBalanceCodeValue": " ",
+        "branch": "Pine Hills",
+        "branchNumberValue": 1,
+        "productType": 4,
+        "interestType": "Simple interest",
+        "interestTypeValue": "1",
+        "currency": "HKD",
+        "currencyCodeValue": 0,
+        "accrualBase": "Actual Day Month",
+        "accrualBaseValue": "2",
+        "yearBase": "360 Day Year",
+        "yearBaseValue": "1"
+      },
+      "exceptionFlag": "",
+      "nonAccrualInterest": {
+        "amt": "0.00000"
+      }
+    },
+    {
+      "transactionCode1": 90,
+      "transactionCode2": 1,
+      "transactionDates": {
+        "postingDate": "2021-04-23",
+        "effectiveDate": "2021-04-23",
+        "paidToDate": "2021-04-23",
+        "processThroughDate": "2021-04-25"
+      },
+      "transactionDetail": [
+        {
+          "description": "Deduction Credit",
+          "edit": "A",
+          "amount": {
+            "amt": "25.00"
+          }
+        }
+      ],
+      "majorAmounts": {
+        "principalAmount": {},
+        "interestAmount": {},
+        "otherAmounts": {
+          "amt": "25.00"
+        }
+      },
+      "transactionAmount": {
+        "amt": "25.00"
+      },
+      "transactionAmountLcye": {
+        "amt": "0.00"
+      },
+      "balanceAfterPosting": {
+        "runningBalance": {
+          "amt": "350000.00"
+        },
+        "interest": {
+          "amt": "0.00"
+        },
+        "accrualBalance": {
+          "amt": "0.00"
+        },
+        "escrow1": {
+          "amt": "0.00"
+        },
+        "escrow2": {
+          "amt": "0.00"
+        },
+        "chargeOffInterst": {
+          "amt": "0.00000"
+        },
+        "chargeOffPrincipal": {
+          "amt": "0.00"
+        }
+      },
+      "balanceMovement": "None",
+      "shortDescription": "DEDUCT CREDIT",
+      "fullDescription": "NON-REBATABLE DEDUCTION CREDIT",
+      "secondaryDescription": "Interest-bearing escrow",
+      "nonAccrualChargeOffFlag": "In Accrual",
+      "nonAccrualChargeOffFlagCode": " ",
+      "postingData": {
+        "transactionNumber": 2,
+        "transactionSource": "Tran Server",
+        "transactionSourceCode": "S",
+        "batchSequenceNumber": 135220,
+        "workStationId": "H001424271",
+        "userId1": "DEMOTTMTT2",
+        "userId2": "DEMOTTMTT2",
+        "overrideCode": "Yes",
+        "overrideCodeValue": "Y",
+        "originatingBranch": "Pine Hills",
+        "originatingBranchValue": 1,
+        "transactionTimeStamp": "2021-04-24 01:52:20",
+        "timeOfTheDay": {
+          "hour": 13,
+          "minute": 52,
+          "second": 20
+        }
+      },
+      "originatorDetails": {},
+      "clearingSymbols": {},
+      "accountData": {
+        "previousInterestRate": 13,
+        "newInterestRate": 13,
+        "accrualBalanceOption": "Normal loan, use principal balance",
+        "accrualBalanceCodeValue": " ",
+        "branch": "Pine Hills",
+        "branchNumberValue": 1,
+        "productType": 4,
+        "interestType": "Simple interest",
+        "interestTypeValue": "1",
+        "currency": "HKD",
+        "currencyCodeValue": 0,
+        "accrualBase": "Actual Day Month",
+        "accrualBaseValue": "2",
+        "yearBase": "360 Day Year",
+        "yearBaseValue": "1"
+      },
+      "exceptionFlag": "",
+      "nonAccrualInterest": {
+        "amt": "0.00000"
+      }
+    },
+    {
+      "transactionCode1": 33,
+      "transactionCode2": 3,
+      "transactionDates": {
+        "postingDate": "2021-04-23",
+        "effectiveDate": "2021-04-23",
+        "paidToDate": "2021-04-23",
+        "processThroughDate": "2021-04-25"
+      },
+      "transactionDetail": [
+        {
+          "description": "Principal",
+          "edit": "A",
+          "amount": {
+            "amt": "350000.00"
+          }
+        },
+        {
+          "description": "Advance amount",
+          "edit": "A",
+          "amount": {
+            "amt": "348975.00"
+          }
+        },
+        {
+          "description": "Application",
+          "edit": "N",
+          "amount": {},
+          "numericValue": 89
+        }
+      ],
+      "majorAmounts": {
+        "principalAmount": {
+          "amt": "350000.00"
+        },
+        "interestAmount": {
+          "amt": "0.00"
+        },
+        "otherAmounts": {}
+      },
+      "transactionAmount": {
+        "amt": "350000.00"
+      },
+      "transactionAmountLcye": {
+        "amt": "0.00"
+      },
+      "balanceAfterPosting": {
+        "runningBalance": {
+          "amt": "350000.00"
+        },
+        "interest": {
+          "amt": "0.00"
+        },
+        "accrualBalance": {
+          "amt": "0.00"
+        },
+        "escrow1": {
+          "amt": "0.00"
+        },
+        "escrow2": {
+          "amt": "0.00"
+        },
+        "chargeOffInterst": {
+          "amt": "0.00000"
+        },
+        "chargeOffPrincipal": {
+          "amt": "0.00"
+        }
+      },
+      "balanceMovement": "Up",
+      "shortDescription": "1ST DISBURSE",
+      "fullDescription": "INITIAL DISBURSEMENT",
+      "nonAccrualChargeOffFlag": "In Accrual",
+      "nonAccrualChargeOffFlagCode": " ",
+      "postingData": {
+        "transactionNumber": 1,
+        "transactionSource": "Tran Server",
+        "transactionSourceCode": "S",
+        "batchSequenceNumber": 36344,
+        "workStationId": "H001424271",
+        "userId1": "DEMOTTMTT2",
+        "userId2": "DEMOTTMTT2",
+        "overrideCode": "Yes",
+        "overrideCodeValue": "Y",
+        "originatingBranch": "Pine Hills",
+        "originatingBranchValue": 1,
+        "transactionTimeStamp": "2021-04-24 01:52:20",
+        "timeOfTheDay": {
+          "hour": 13,
+          "minute": 52,
+          "second": 20
+        }
+      },
+      "originatorDetails": {},
+      "clearingSymbols": {},
+      "accountData": {
+        "previousInterestRate": 13,
+        "newInterestRate": 13,
+        "accrualBalanceOption": "Normal loan, use principal balance",
+        "accrualBalanceCodeValue": " ",
+        "branch": "Pine Hills",
+        "branchNumberValue": 1,
+        "productType": 4,
+        "interestType": "Simple interest",
+        "interestTypeValue": "1",
+        "currency": "HKD",
+        "currencyCodeValue": 0,
+        "accrualBase": "Actual Day Month",
+        "accrualBaseValue": "2",
+        "yearBase": "360 Day Year",
+        "yearBaseValue": "1"
+      },
+      "exceptionFlag": "",
+      "nonAccrualInterest": {
+        "amt": "0.00000"
+      }
+    }
+  ]
+}

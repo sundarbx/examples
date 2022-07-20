@@ -1,0 +1,41 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 1
+  },
+  "creditLineNbr": {
+    "custCreditLineNbr": "QUVTOiBWMkV2Yk5TcHkyekpxam43MG5pQVR3PT0=",
+    "custCreditLineNbrMasked": "*******0099"
+  },
+  "sublimit": 118,
+  "availableBalHistoryCL": [
+    {
+      "balanceChangeDate": "2017-03-01",
+      "lineAmount": {
+        "amt": "10000.00"
+      },
+      "outstandingBalance": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "10000.00"
+      },
+      "revolvingNonRevolving": "Revolving line",
+      "amountDisbursed": {
+        "amt": "0.00"
+      },
+      "earmarkAmountSublimit": {
+        "amt": "0.00"
+      },
+      "earmarkAmountLoan": {
+        "amt": "0.00"
+      }
+    }
+  ],
+  "sequence": "DESC"
+}

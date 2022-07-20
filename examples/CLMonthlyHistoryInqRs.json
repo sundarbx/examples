@@ -1,0 +1,62 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 0
+  },
+  "custId": {
+    "custPermId": "QUVTOiBGWmo0NXNueVJEandGdG1DdUhKQjNRPT0=",
+    "custPermIdMasked": "******1096"
+  },
+  "creditLineNumber": {
+    "custCreditLineNbr": "QUVTOiBwVWJacExGN2crTEcyOExFMTkwemhRPT0=",
+    "custCreditLineNbrMasked": "*******0185"
+  },
+  "clMonthlyHistory": {
+    "month": "06",
+    "year": "2022",
+    "lineAmount": {
+      "amt": "100000.00"
+    },
+    "amountUsed": {
+      "amt": "0.00"
+    },
+    "availableBalance": {
+      "amt": "100000.00"
+    },
+    "averageBalance": {
+      "amt": "0.00"
+    },
+    "daysOverlineMTD": 0,
+    "creditLineType": "HZIMS",
+    "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+    "revolving": "Yes",
+    "revolvingValue": "1",
+    "daysOutOfDebtMTD": 30,
+    "lineStatus": "Active",
+    "lineStatusCode": "0",
+    "linePriority": "  ",
+    "linePriorityValue": "  ",
+    "lineRatingCode": "  ",
+    "lineRatingCodeValue": "  ",
+    "creditLineRisk": " ",
+    "riskCodeValue": " ",
+    "highBalance": {
+      "amt": "0"
+    },
+    "lowBalance": {
+      "amt": "0"
+    },
+    "interestAccrued": 0,
+    "indirectContingentOutstanding": {
+      "amt": "0.00"
+    },
+    "lettersOfCurrentOutstanding": {
+      "amt": "0.00"
+    }
+  }
+}

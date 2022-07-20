@@ -1,0 +1,250 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 12,
+    "cursor": "00217"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBwQzRvSjkzMm5BVG5KVVVNQU5EQWJRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "aliasBankAcctId": {},
+  "pmtAmortSchedRec": {
+    "pmtAmortScheds": [
+      {
+        "intRate": 13,
+        "pmtDt": "2038-04-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1582.04"
+        },
+        "interestPmtAmt": {
+          "amt": "2443.75"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "216718.82"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-05-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1678.00"
+        },
+        "interestPmtAmt": {
+          "amt": "2347.79"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "215040.82"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-06-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1618.53"
+        },
+        "interestPmtAmt": {
+          "amt": "2407.26"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "213422.29"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-07-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1713.71"
+        },
+        "interestPmtAmt": {
+          "amt": "2312.08"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "211708.58"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-08-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1655.83"
+        },
+        "interestPmtAmt": {
+          "amt": "2369.96"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "210052.75"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-09-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1674.37"
+        },
+        "interestPmtAmt": {
+          "amt": "2351.42"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "208378.38"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-10-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1768.36"
+        },
+        "interestPmtAmt": {
+          "amt": "2257.43"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "206610.02"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-11-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1712.90"
+        },
+        "interestPmtAmt": {
+          "amt": "2312.89"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "204897.12"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2038-12-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1806.07"
+        },
+        "interestPmtAmt": {
+          "amt": "2219.72"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "203091.05"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2039-01-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1752.30"
+        },
+        "interestPmtAmt": {
+          "amt": "2273.49"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "201338.75"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2039-02-28",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1917.33"
+        },
+        "interestPmtAmt": {
+          "amt": "2108.46"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "199421.42"
+        }
+      },
+      {
+        "intRate": 13,
+        "pmtDt": "2039-03-30",
+        "totalPmtAmt": {
+          "amt": "4025.79"
+        },
+        "principalPmtAmt": {
+          "amt": "1865.39"
+        },
+        "interestPmtAmt": {
+          "amt": "2160.40"
+        },
+        "otherPmtAmt": {
+          "amt": "0.00"
+        },
+        "principalBalAmt": {
+          "amt": "197556.03"
+        }
+      }
+    ]
+  }
+}

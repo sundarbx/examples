@@ -1,0 +1,97 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBRQ3FNMCt3dGdnRkJnb0JVNkp3S3lnPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "accountInformation": {
+    "accountStatus": "Open",
+    "productCode": 4,
+    "productDescription": "SIMPLE INT COMMERCIAL LOAN    ",
+    "branch": "Pine Hills",
+    "primaryOfficer": "TTMF Officer 2",
+    "secondaryOfficer": "TTMF Officer 2",
+    "loanDate": "2021-04-23",
+    "maturityDate": "2043-04-30",
+    "term": 265,
+    "principalBalance": {
+      "amt": "350000.00",
+      "curCode": "HKD"
+    },
+    "principalBalanceLCYE": {
+      "amt": "350000.00"
+    },
+    "interestDue": {
+      "amt": "55611.11"
+    },
+    "payoffPenaltyAmount": {
+      "amt": "0.00"
+    },
+    "payoffAmount": {
+      "amt": "407215.00"
+    },
+    "faceAmount": {
+      "amt": "350000.00"
+    },
+    "originalMaturityDate": "2043-04-30",
+    "originalTerm": 265
+  },
+  "pastDueInformation": {
+    "oldestPaymentDueDate": "2021-04-30",
+    "daysPastDue": 432,
+    "totalPastDueAmount": {
+      "amt": "58849.67"
+    },
+    "lastPaymentAmount": {
+      "amt": "0.00"
+    }
+  },
+  "delinquentCycle": {
+    "cycle1": 1,
+    "cycle2": 1,
+    "cycle3": 1,
+    "cycle4": 1,
+    "cycle5": 1,
+    "cycle6": 1
+  },
+  "pastDueFeesAndInterest": {
+    "penaltyInterstCalcCode": "No penalty interest charges",
+    "lateInterestCode": "Interest accrued on total payment"
+  },
+  "paymentDetails": {
+    "nextPaymentDate": "2022-07-30",
+    "nextPaymentAmount": {
+      "amt": "4025.79"
+    },
+    "nextPrincipalAmount": {
+      "amt": "234.13"
+    },
+    "nextInterestAmount": {
+      "amt": "3791.66"
+    },
+    "scheduledPAndIAmount": {
+      "amt": "4025.79"
+    },
+    "remainingPayments": 265
+  },
+  "renewalDetails": {
+    "timesRenewed": 0
+  },
+  "collectionDetails": {
+    "creditBureauReportingFlag": "No credit bureau reporting",
+    "creditBureauReportingCode": "   ",
+    "classificationCode": "NOT USED",
+    "collectionCode": "Do not send to Collections",
+    "collectionUserCode": "No Collections User Code",
+    "recourseCode": " ",
+    "rewriteCode": " ",
+    "riskCode": " ",
+    "paymentsAllowed": "Allow payments"
+  }
+}

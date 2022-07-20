@@ -1,0 +1,92 @@
+{
+  "rqUID": {
+    "rqUID": "84e1add6-5b2f-4ffb-8ea8-d40e68d11402"
+  },
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiA4WHdvWHRiWkJWTW1OU0t0bUhxMUtBPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 3,
+    "cursor": "00",
+    "moreFlag": "0"
+  },
+  "pmtSchedInfo": {
+    "currPlanNum": 2,
+    "numTimesUsed": 14,
+    "nextSchedBillDt": "2022-07-30",
+    "agreedPmtAmt": {
+      "amt": "0.00",
+      "curCode": "HKD"
+    },
+    "addtlPmtAmt": {
+      "amt": "0.00"
+    },
+    "pmtScheds": [
+      {
+        "pmtSchedId": "01",
+        "pmtSchedUseNum": "00001",
+        "pmtSchedNextPmtDt": "2021-04-30",
+        "pmtSchedTypeCode": "Interest only",
+        "pmtSchedAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "pmtSchedPeriodCode": "Months",
+        "pmtSchedFreq": 1,
+        "pmtSchedSpecDay": 30,
+        "pmtSchedLastPmtDt": "2021-04-30"
+      },
+      {
+        "pmtSchedId": "02",
+        "pmtSchedUseNum": "00263",
+        "pmtSchedNextPmtDt": "2021-05-30",
+        "pmtSchedTypeCode": "Principal and interest",
+        "pmtSchedAmt": {
+          "amt": "4025.79"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "pmtSchedPeriodCode": "Months",
+        "pmtSchedFreq": 1,
+        "pmtSchedSpecDay": 30,
+        "pmtSchedLastPmtDt": "2043-03-30"
+      },
+      {
+        "pmtSchedId": "03",
+        "pmtSchedUseNum": "00001",
+        "pmtSchedNextPmtDt": "2043-04-30",
+        "pmtSchedTypeCode": "Principal and interest",
+        "pmtSchedAmt": {
+          "amt": "999999999999999.99"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "pmtSchedPeriodCode": "Months",
+        "pmtSchedFreq": 1,
+        "pmtSchedSpecDay": 30,
+        "pmtSchedLastPmtDt": "2043-04-30"
+      }
+    ]
+  }
+}

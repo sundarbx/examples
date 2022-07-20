@@ -1,0 +1,554 @@
+{
+  "rqUID": {
+    "rqUID": "8431db9f-e95c-43a7-ac68-1c0fff2e420d"
+  },
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBNbHVDYk40VFpyc3l6UHhiL3RrOUVRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 10,
+    "cursor": "00011",
+    "moreFlag": "1"
+  },
+  "projected": "Projected",
+  "lateFeeCode": "6",
+  "penaltyInterestCode": "00",
+  "escrowFlag": "",
+  "insuranceCalculationOpt": "0",
+  "standardPaymentFlagValues": {
+    "fee1IncludeInStdPayment": "1",
+    "fee2IncludeInStdPayment": "1",
+    "fee3IncludeInStdPayment": "1",
+    "lateFeeIncludeInStdPayment": "0",
+    "penaltyIntIncludeInStdPayment": "0"
+  },
+  "unpaidPmtInfo": {
+    "projectPmtBasic": {
+      "pmtTypeCode": "Principal and interest",
+      "pmtDueDate": "2022-07-30",
+      "requiredAmt": {
+        "amt": "4025.79"
+      },
+      "princAmt": {
+        "amt": "234.13"
+      },
+      "intAmt": {
+        "amt": "3791.66"
+      },
+      "fee1Amt": {
+        "amt": "0.00"
+      },
+      "fee2Amt": {
+        "amt": "0.00"
+      },
+      "insuranceAmt": {
+        "amt": "0.00"
+      },
+      "intBearingEscrowAmt": {
+        "amt": "0.00"
+      },
+      "nonIntBearingEscrowAmt": {
+        "amt": "0.00"
+      },
+      "escrowAmtForPayment": {
+        "amt": "0.00"
+      },
+      "lateIntAmt": {
+        "amt": "0"
+      },
+      "lateFeeAmt": {
+        "amt": "0"
+      },
+      "feeAmountForPayment": {
+        "amt": "0.00"
+      },
+      "penaltyInterestAmt": {
+        "amt": "0"
+      }
+    },
+    "totalAmtDue": {
+      "requiredAmt": {
+        "amt": "62875.46"
+      },
+      "princAmt": {
+        "amt": "2753.52"
+      },
+      "intAmt": {
+        "amt": "58518.05"
+      },
+      "insuranceAmt": {
+        "amt": "0.00"
+      },
+      "intBearingEscrowAmt": {
+        "amt": "0.00"
+      },
+      "nonIntBearingEscrowAmt": {
+        "amt": "0.00"
+      },
+      "escrowAmtForPayment": {
+        "amt": "0.00"
+      },
+      "lateIntAmt": {
+        "amt": "1603.89"
+      },
+      "lateFeeAmt": {
+        "amt": "0.00"
+      },
+      "feeAmountForPayment": {
+        "amt": "0.00"
+      },
+      "penaltyInterestAmt": {
+        "amt": "0.00"
+      }
+    },
+    "totalFee1DueAmt": {
+      "amt": "0.00"
+    },
+    "totalFee2DueAmt": {
+      "amt": "0.00"
+    },
+    "totalFee3DueAmt": {
+      "amt": "0.00"
+    },
+    "billedPmtBasics": [
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-06-30",
+        "requiredAmt": {
+          "amt": "4025.79"
+        },
+        "princAmt": {
+          "amt": "107.73"
+        },
+        "intAmt": {
+          "amt": "3918.06"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "0.00"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-05-30",
+        "requiredAmt": {
+          "amt": "4046.14"
+        },
+        "princAmt": {
+          "amt": "234.12"
+        },
+        "intAmt": {
+          "amt": "3791.67"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "20.35"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-04-30",
+        "requiredAmt": {
+          "amt": "4062.64"
+        },
+        "princAmt": {
+          "amt": "107.74"
+        },
+        "intAmt": {
+          "amt": "3918.05"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "36.85"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-03-30",
+        "requiredAmt": {
+          "amt": "4079.14"
+        },
+        "princAmt": {
+          "amt": "234.12"
+        },
+        "intAmt": {
+          "amt": "3791.67"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "53.35"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-02-28",
+        "requiredAmt": {
+          "amt": "4096.74"
+        },
+        "princAmt": {
+          "amt": "360.51"
+        },
+        "intAmt": {
+          "amt": "3665.28"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "70.95"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2022-01-30",
+        "requiredAmt": {
+          "amt": "4112.14"
+        },
+        "princAmt": {
+          "amt": "107.74"
+        },
+        "intAmt": {
+          "amt": "3918.05"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "86.35"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2021-12-30",
+        "requiredAmt": {
+          "amt": "4128.64"
+        },
+        "princAmt": {
+          "amt": "234.12"
+        },
+        "intAmt": {
+          "amt": "3791.67"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "102.85"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2021-11-30",
+        "requiredAmt": {
+          "amt": "4145.14"
+        },
+        "princAmt": {
+          "amt": "107.74"
+        },
+        "intAmt": {
+          "amt": "3918.05"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "119.35"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2021-10-30",
+        "requiredAmt": {
+          "amt": "4161.64"
+        },
+        "princAmt": {
+          "amt": "234.12"
+        },
+        "intAmt": {
+          "amt": "3791.67"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "135.85"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      },
+      {
+        "pmtTypeCode": "Principal and interest",
+        "pmtDueDate": "2021-09-30",
+        "requiredAmt": {
+          "amt": "4178.14"
+        },
+        "princAmt": {
+          "amt": "107.74"
+        },
+        "intAmt": {
+          "amt": "3918.05"
+        },
+        "fee1Amt": {
+          "amt": "0.00"
+        },
+        "fee2Amt": {
+          "amt": "0.00"
+        },
+        "insuranceAmt": {
+          "amt": "0.00"
+        },
+        "intBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "nonIntBearingEscrowAmt": {
+          "amt": "0.00"
+        },
+        "escrowAmtForPayment": {
+          "amt": "0.00"
+        },
+        "lateIntAmt": {
+          "amt": "152.35"
+        },
+        "lateFeeAmt": {
+          "amt": "0.00"
+        },
+        "feeAmountForPayment": {
+          "amt": "0.00"
+        },
+        "penaltyInterestAmt": {
+          "amt": "0.00"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "bankAcctId": {
+        "acctId": "8572",
+        "acctType": "LN"
+    },
+    "recCtrlIn": {
+        "cursor": "",
+        "maxRec": 20
+    },
+    "sequence": "DESC"
+}

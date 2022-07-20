@@ -1,0 +1,31 @@
+{
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "custId": {
+    "custPermId": "QUVTOiBVYUx3akxzV2s1R3hXSm1ZZTI4SFd3PT0=",
+    "custPermIdMasked": "******3711"
+  },
+  "customerDetails": {
+    "shortName": "MARTIN DEVON",
+    "lineAmount": {
+      "amt": "0"
+    },
+    "balanceOutstanding": {
+      "amt": "0.00"
+    },
+    "avaliableAmountofLine": {
+      "amt": "0.00"
+    },
+    "earmarkedCreditLines": {
+      "amt": "0"
+    },
+    "earmarkedSublimits": {
+      "amt": "0"
+    },
+    "earmarkedLoans": {
+      "amt": "0"
+    }
+  }
+}

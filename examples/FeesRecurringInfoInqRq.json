@@ -1,0 +1,8 @@
+{
+    "aliasBankAcctId": {},
+    "feeNumber": 2,
+    "bankAcctId": {
+        "acctId": "000000125001",
+        "acctType": "LN"
+    }
+}

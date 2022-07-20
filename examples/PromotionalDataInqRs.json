@@ -1,0 +1,37 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBFdU1vT0xTUldIMFhRMVlOK2lQNk13PT0=",
+    "acctIdMasked": "*********8550"
+  },
+  "aliasBankAcctId": {},
+  "promotionalInterestControls": {
+    "promotionType": "Not Applicable",
+    "promotionTypeValue": 0,
+    "promotionalPeriod": "None",
+    "promotionalPeriodValue": " ",
+    "promotionalFrequency": 0,
+    "cancellationDays": 0,
+    "withdrawnDelinquentDays": 0,
+    "initialInterestRate": 8,
+    "interestFreeAccrualOption": "Interest bearing in period",
+    "interestFreeAccrualOptionValue": "0",
+    "endOfPromoRateOption": "Not applicable",
+    "endOfPromoRateOptValue": " ",
+    "pendingInterestRate": 0,
+    "settlementTypeAvailable": "Interest bearing in period",
+    "settlementTypeAvailableValue": "0"
+  },
+  "promotionalDeferredPaymentControls": {
+    "deferredPaymentPeriod": "None",
+    "deferredPaymentPeriodValue": " ",
+    "deferredPaymentFrequency": 0,
+    "blockPayments": "Do Not Block Payments",
+    "blockPaymentsValue": "0"
+  }
+}

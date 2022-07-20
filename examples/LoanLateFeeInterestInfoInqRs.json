@@ -1,0 +1,71 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBWM0MrSXZETHRmcmNTTy9GbVExMTlRPT0=",
+    "acctIdMasked": "********55555"
+  },
+  "aliasBankAcctId": {},
+  "lateFeesIntCompCodeDesc": "Percentage of principal balance",
+  "lateFeesIntCompCodeValue": "1",
+  "lateFeePercentage": 5,
+  "lateFeeIntProcessingOptDesc": "Last processing before grace days",
+  "lateFeeIntProcessingOptValue": 2,
+  "delayFirstLateFeeDesc": "No delay",
+  "delayFirstLateFeeValue": 0,
+  "daysToAssessLateFee": 10,
+  "lateFeeMaxAmtAssessed": {
+    "amt": "10.00"
+  },
+  "lateFeeMinAmtAssessed": {
+    "amt": "10.00"
+  },
+  "flatFeeAmount": {
+    "amt": "10.00"
+  },
+  "lateFeesMaxAmtAssessable": {
+    "amt": "0.00"
+  },
+  "lateFeesDue": {
+    "amt": "0.00"
+  },
+  "lateFeesAssessedToDate": {
+    "amt": "420.00"
+  },
+  "lateFeesAssessedThisMonth": {
+    "amt": "0.00"
+  },
+  "lateFeesAssessedYtd": {
+    "amt": "40.00"
+  },
+  "totalLateFeesPaid": {
+    "amt": "420.00"
+  },
+  "totalLateFeesPaidYtd": {
+    "amt": "420.00"
+  },
+  "lateFeesPaidThisMonth": {
+    "amt": "0.00"
+  },
+  "lateFeesWaivedToDate": {
+    "amt": "0.00"
+  },
+  "lateInterestIndexNumberValue": 0,
+  "lateInterestIndexNumberDesc": "00",
+  "lateInterestVarFromIndex": 0,
+  "lateIntpreviousIntRate": 5,
+  "lateIntRateEffDate": "2012-09-03",
+  "lateInterestAccrualBaseDesc": "0",
+  "lateInterestAccrualBaseValue": 0,
+  "lateInterestYearBaseDesc": "0",
+  "lateInterestYearBaseValue": 0,
+  "lateInterestEffectiveDateOpt": "Effective after grace period",
+  "lateInterestEffectiveDateOptvalue": 0,
+  "lateIntAccrSinceNonAccr": {
+    "amt": "0.00"
+  }
+}

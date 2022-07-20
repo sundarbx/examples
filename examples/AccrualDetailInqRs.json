@@ -1,0 +1,65 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiAyWkYyNDQwcTRBYUZkUE1DdytEM3lRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "principalBalance": {
+    "amt": "350000.00",
+    "curCode": "HKD"
+  },
+  "principalBalanceLCYE": {
+    "amt": "350000.00"
+  },
+  "interestRate": 13,
+  "rateEffectiveDate": "2021-04-23",
+  "accrualBase": "Actual Day Month",
+  "yearBase": "360 Day Year",
+  "interestAccruedThroughDate": "2022-07-06",
+  "interestAccruedToDate": {
+    "amt": "55611.10720"
+  },
+  "interestPaidToDate": {
+    "amt": "0.00"
+  },
+  "interestDue": {
+    "amt": "55611.10720"
+  },
+  "accrualBalance": {
+    "amt": "0.00",
+    "curCode": "HKD"
+  },
+  "accrualBalanceLCYE": {
+    "amt": "0.00"
+  },
+  "accrualBalanceOption": "Normal loan, use principal balance",
+  "previousInterestRate": 13,
+  "perDiem": 126.38888,
+  "interestType": "Simple interest",
+  "interestComputationCode": "Simple Interest",
+  "interestEarnedThroughDate": "2021-04-23",
+  "minimumTotalInterest": {
+    "amt": "0.00"
+  },
+  "nonAccrual": "Loan is not in non-accrual",
+  "nonAccrualInterestAmount": {
+    "amt": "0.00000"
+  },
+  "chargeOffDescription": " ",
+  "chargeOffInterest": {
+    "amt": "0.00"
+  },
+  "chargeOffPrincipal": {
+    "amt": "0.00",
+    "curCode": "HKD"
+  },
+  "interestAccruedOnChargeOff": {
+    "amt": "0.00000"
+  }
+}

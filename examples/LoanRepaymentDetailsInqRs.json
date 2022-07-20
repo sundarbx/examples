@@ -1,0 +1,28 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBKWWppZGhRTDVVVnFZbVNzdE9TdFRBPT0=",
+    "acctIdMasked": "*********8040"
+  },
+  "paymentMethod": "Coupon",
+  "paymentMethodValue": 3,
+  "leadDaysForBilling": 15,
+  "finalPaymentOption": "Do not use Scheduled Transfer Order",
+  "finalPaymentValue": 1,
+  "transferOrderAnchorAmount": {},
+  "transferOrderInfo": {
+    "collectFromAccts": [],
+    "recModelInfo": {}
+  },
+  "depositAccountAutomaticHold": 0,
+  "depositAccountAutomaticHoldValue": "Do not place hold",
+  "collectPastDuePayments": 1,
+  "collectPastDuePaymentsValue": "Yes, collect all amounts due",
+  "pastDueMinimumPaymentAmount": {}
+}

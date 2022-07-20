@@ -1,0 +1,60 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBKQzd3UWJwaUdWK0Fwa1JhZEhNSmVRPT0=",
+    "acctIdMasked": "********55555"
+  },
+  "computationCode": "No penalty interest charges",
+  "computationCodeValue": 0,
+  "rateVariance": 0,
+  "penaltyInterestRate": 0,
+  "rateEffectiveDate": "2012-09-03",
+  "dailyFactor": 0,
+  "accruedThroughDate": "2016-04-28",
+  "daysToAssessPenaltyInterest": 0,
+  "accrualBase": "0",
+  "accrualBaseCode": 0,
+  "yearBase": "0",
+  "yearBaseCode": 0,
+  "previousRate": 0,
+  "lateDaysOption": "Calendar days used to count late days",
+  "lateDaysOptionValue": 0,
+  "effectiveDateOption": "Effective after grace period",
+  "effectiveDateOptionCode": 0,
+  "totalAmountDue": {
+    "amt": "0.00"
+  },
+  "totalAssessed": {
+    "amt": "0.00000"
+  },
+  "accruedMTD": {
+    "amt": "0.00"
+  },
+  "accruedYTD": {
+    "amt": "0.00"
+  },
+  "totalPaid": {
+    "amt": "0.00"
+  },
+  "paidMTD": {
+    "amt": "0.00"
+  },
+  "paidYTD": {
+    "amt": "0.00"
+  },
+  "totalWaived": {
+    "amt": "0.00"
+  },
+  "penaltyInterestInNonAccrual": {
+    "amt": "0.00000"
+  },
+  "penaltyInterestInChargeOff": {
+    "amt": "0.00000"
+  }
+}

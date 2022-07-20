@@ -1,0 +1,90 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 2
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiAzbzh5Mnc2UWpxTWwyK1ozUnpzcDVRPT0=",
+    "acctIdMasked": "********25001"
+  },
+  "aliasBankAcctId": {},
+  "feesRecurringInfo": [
+    {
+      "feeNumber": 1,
+      "feeDesc": "MISCELLANEOUS FEE 1           ",
+      "feeBucket": "Billed in fee 1 of a billing bucket",
+      "period": "Months",
+      "frequency": 1,
+      "specificDay": 0,
+      "feeBucketValue": "1",
+      "startCode": "Custom date",
+      "startCodeValue": "3",
+      "billCode": "Capitalise",
+      "billCodeValue": "2",
+      "accrualBase": " ",
+      "accrualBaseValue": " ",
+      "yearBase": " ",
+      "yearBaseValue": " ",
+      "assessedToDate": {
+        "amt": "3800.00"
+      },
+      "assessedMTD": {
+        "amt": "0.00"
+      },
+      "assessedYTD": {
+        "amt": "0.00"
+      },
+      "perDiem": 0,
+      "currentFeeCalculatedThisPeriod": {
+        "amt": "0.00"
+      },
+      "nextDate": "2016-05-23",
+      "calculationCode": "Flat fee",
+      "calculationCodeValue": "1",
+      "feeAmount": {
+        "amt": "25.00"
+      }
+    },
+    {
+      "feeNumber": 2,
+      "feeDesc": "MISCELLANEOUS FEE 2           ",
+      "feeBucket": "Billed in fee 2 of a billing bucket",
+      "period": "Months",
+      "frequency": 30,
+      "specificDay": 0,
+      "feeBucketValue": "2",
+      "startCode": "Custom date",
+      "startCodeValue": "3",
+      "billCode": "Capitalise",
+      "billCodeValue": "2",
+      "accrualBase": " ",
+      "accrualBaseValue": " ",
+      "yearBase": " ",
+      "yearBaseValue": " ",
+      "assessedToDate": {
+        "amt": "72.30"
+      },
+      "assessedMTD": {
+        "amt": "0.00"
+      },
+      "assessedYTD": {
+        "amt": "0.00"
+      },
+      "perDiem": 0,
+      "currentFeeCalculatedThisPeriod": {
+        "amt": "0.00"
+      },
+      "nextDate": "2018-10-23",
+      "calculationCode": "Percentage of face amount",
+      "calculationCodeValue": "2",
+      "feePercentage": 1,
+      "feeAmount": {}
+    }
+  ]
+}

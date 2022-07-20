@@ -1,0 +1,43 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBOb2NQdWhNd2Y0ODBweU9aalppZnd3PT0=",
+    "acctIdMasked": "********25001"
+  },
+  "aliasBankAcctId": {},
+  "feesRecurringInfo": {
+    "feeNumber": 2,
+    "feeDesc": "MISCELLANEOUS FEE 2           ",
+    "feeBucket": "Billed in fee 2 of a billing bucket",
+    "period": "Months",
+    "periodValue": "M",
+    "frequency": 30,
+    "specificDay": 0,
+    "startCode": "Custom date",
+    "billCode": "Capitalise",
+    "accrualBase": " ",
+    "yearBase": " ",
+    "assessedToDate": {
+      "amt": "72.30"
+    },
+    "assessedMTD": {
+      "amt": "0.00"
+    },
+    "assessedYTD": {
+      "amt": "0.00"
+    },
+    "perDiem": 0,
+    "currentFeeCalculatedThisPeriod": {
+      "amt": "0.00"
+    },
+    "nextDate": "2018-10-23",
+    "calculationCode": "Percentage of face amount",
+    "feePercentage": 1,
+    "feeAmount": {}
+  }
+}

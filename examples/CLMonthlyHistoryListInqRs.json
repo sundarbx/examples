@@ -1,0 +1,883 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 20,
+    "cursor": "202010"
+  },
+  "custId": {
+    "custPermId": "QUVTOiBER1FSOWtHQ2tQR2FLTlluMXFaQlhnPT0=",
+    "custPermIdMasked": "******1096"
+  },
+  "creditLineNumber": {
+    "custCreditLineNbr": "QUVTOiBjWk5iNmwvYktVZmtXeks3VklaeVZBPT0=",
+    "custCreditLineNbrMasked": "*******0185"
+  },
+  "clMonthlyHistory": [
+    {
+      "month": "06",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "05",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "04",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "03",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "02",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 28,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "01",
+      "year": "2022",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "12",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "11",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "10",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "09",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "08",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "07",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "06",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "05",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "04",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "03",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "02",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 28,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "01",
+      "year": "2021",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "12",
+      "year": "2020",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 31,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "month": "11",
+      "year": "2020",
+      "lineAmount": {
+        "amt": "100000.00"
+      },
+      "amountUsed": {
+        "amt": "0.00"
+      },
+      "availableBalance": {
+        "amt": "100000.00"
+      },
+      "averageBalance": {
+        "amt": "0.00"
+      },
+      "daysOverlineMTD": 0,
+      "creditLineType": "HZIMS",
+      "creditLineDesc": "AUTO_CREDITLINE_HZIMS         ",
+      "revolving": "Yes",
+      "revolvingValue": "1",
+      "daysOutOfDebtMTD": 30,
+      "lineStatus": "Active",
+      "lineStatusCode": "0",
+      "linePriority": "  ",
+      "linePriorityValue": "  ",
+      "lineRatingCode": "  ",
+      "lineRatingCodeValue": "  ",
+      "creditLineRisk": " ",
+      "riskCodeValue": " ",
+      "highBalance": {
+        "amt": "0"
+      },
+      "lowBalance": {
+        "amt": "0"
+      },
+      "interestAccrued": 0,
+      "indirectContingentOutstanding": {
+        "amt": "0.00"
+      },
+      "lettersOfCurrentOutstanding": {
+        "amt": "0.00"
+      }
+    }
+  ],
+  "sequence": "DESC"
+}

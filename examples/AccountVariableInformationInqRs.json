@@ -1,0 +1,87 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBFUWMvdGRuQ09IYUpteWVadDJCZnRRPT0=",
+    "acctIdMasked": "*********8572"
+  },
+  "aliasBankAcctId": {},
+  "interestInfo": {
+    "variableInterestControls": {
+      "interestGuaranteeOption": "Rate changes with index",
+      "interestGuaranteeOptionValue": "4",
+      "indexNumber": 3,
+      "indexDescription": "CIB PRIME                ",
+      "currentIndexRate": 14,
+      "variance": -1,
+      "multiplier": 0,
+      "floorCeilingOption": "Not applicable",
+      "floorCeilingOptionValue": " ",
+      "floorRate": 0,
+      "ceilingRate": 0,
+      "currentInterestRate": 13,
+      "rateEffectiveDate": "2021-04-23",
+      "previousRate": 13
+    },
+    "variableRateReviewDetails": {
+      "rateReviewPeriod": "No review period",
+      "rateReviewPeriodValue": " ",
+      "rateReviewFrequency": 0,
+      "rateReviewSpecificDay": 0,
+      "rateReviewLeadDays": 0,
+      "minRateMustChange": 0,
+      "maxRateChange": 0
+    },
+    "rateChangeOptions": {
+      "rateChangeGraceDays": 0,
+      "rateChangesAtStartDateOption": "Next index change",
+      "rateChangesAtStartDateOptionValue": 0,
+      "rateChangeVarianceFlag": "Next index change",
+      "rateChangeVarianceFlagValue": 0,
+      "rateChangesFloorCeiling": "Next index change",
+      "rateChangesFloorCeilingValue": 0,
+      "zeroRateAtMaturity": "Do not freeze",
+      "zeroRateAtMaturityValue": "N"
+    }
+  },
+  "paymentTermInfo": {
+    "pmtTermReviewFreqControls": {
+      "reviewPeriod": "No review period",
+      "reviewPeriodValue": " ",
+      "reviewFrequency": 0,
+      "reviewSpecificDay": 0,
+      "reviewLeadDays": 0
+    },
+    "paymentReviewControls": {
+      "paymentTermVarianceFlag": "Variable Payment/Term is not used",
+      "paymentTermVarianceFlagValue": 0,
+      "varianceDirection": "Not applicable",
+      "varianceDirectionValue": " ",
+      "variancePercentagePerPeriod": 0,
+      "originalPnIPaymentAmount": {
+        "amt": "0.00"
+      },
+      "previousPnIPaymentAmount": {
+        "amt": "0.00"
+      }
+    },
+    "amortisationOptions": {
+      "projectPrincipalBalance": 1,
+      "projectAccrualBalance": 0,
+      "currentAccrualBalance": 0,
+      "addExtraPrincipalPaymentsToBalance": 0,
+      "useAmortisationMaturityDate": 0
+    },
+    "termReviewControls": {
+      "maximumTerm": 0,
+      "maxTermIncreasePeriod": 0,
+      "maxTermDecreasePeriod": 0,
+      "originalTerm": 265,
+      "previousTerm": 265
+    }
+  }
+}
