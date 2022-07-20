@@ -1,0 +1,79 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "custId": {
+    "custPermId": "QUVTOiA1YkJRSktDMjRtSko4ZTlxdHZzRWh3PT0=",
+    "custPermIdMasked": "******1096"
+  },
+  "loanRecords": [
+    {
+      "bankAcctId": {
+        "acctType": "LN",
+        "acctId": "QUVTOiB4NFV4VGRLeEE1ZHRWeDcrU0hxbHVRPT0=",
+        "acctIdMasked": "*********8550"
+      },
+      "currentBal": {
+        "amt": "0.00",
+        "curCode": "HKD"
+      },
+      "faceAmount": {
+        "amt": "25000.00",
+        "curCode": "HKD"
+      },
+      "acctStatCode": " ",
+      "acctStatCodeDtl": "Open",
+      "nickname": "SIMPLE-CIVIL SERVANT LOANS HKD",
+      "loanToValueRatio": 0,
+      "collateralPledgeAmount": {
+        "amt": "0.00"
+      }
+    },
+    {
+      "bankAcctId": {
+        "acctType": "LN",
+        "acctId": "QUVTOiBUN0hGQThHcWFjeE9RT2w5d2krZER3PT0=",
+        "acctIdMasked": "*********8551"
+      },
+      "currentBal": {
+        "amt": "25000.00",
+        "curCode": "HKD"
+      },
+      "faceAmount": {
+        "amt": "25000.00",
+        "curCode": "HKD"
+      },
+      "acctStatCode": " ",
+      "acctStatCodeDtl": "Open",
+      "nickname": "COMM VEHICLES - VARIBALE RATE",
+      "loanToValueRatio": 0,
+      "collateralPledgeAmount": {
+        "amt": "179.82"
+      }
+    },
+    {
+      "bankAcctId": {
+        "acctType": "LN",
+        "acctId": "QUVTOiBkdFFKUm5TcWZWVjFXTWZJOWFRS25BPT0=",
+        "acctIdMasked": "*********8552"
+      },
+      "currentBal": {
+        "amt": "35000.00",
+        "curCode": "HKD"
+      },
+      "faceAmount": {
+        "amt": "35000.00",
+        "curCode": "HKD"
+      },
+      "acctStatCode": " ",
+      "acctStatCodeDtl": "Open",
+      "nickname": "COMM VEHICLES - VARIBALE RATE",
+      "loanToValueRatio": 0,
+      "collateralPledgeAmount": {
+        "amt": "0.00"
+      }
+    }
+  ]
+}

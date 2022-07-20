@@ -1,0 +1,54 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "aliasBankAcctId": {},
+  "acctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBMc0ZSOXlCeWZzNUxmVFNxa29BL3dnPT0=",
+    "acctIdMasked": "*********8550"
+  },
+  "loanAccountDetail": {
+    "loanProduct": 39,
+    "loanProductDesc": "SIMPLE-CIVIL SERVANT LOANS HKD",
+    "revolvingNonRevolving": "",
+    "accountStatus": "1",
+    "loanEarmarked": "Do not earmark available amount",
+    "faceAmountOfNote": {
+      "amt": "25000.00"
+    },
+    "loanBalance": {
+      "amt": "0.00"
+    },
+    "totalAmtDisbursed": {
+      "amt": "0.00"
+    },
+    "availableOrRedrawAmount": {
+      "amt": "25000.00"
+    },
+    "redrawFlagValue": 0,
+    "creditLineNumber": {
+      "custCreditLineNbr": "QUVTOiBVeXpiS2NHY2FEVVVZNWRNUHFxSFh3PT0=",
+      "custCreditLineNbrMasked": "**********0"
+    },
+    "sublimitNumber": 0
+  },
+  "creditLineDetail": {
+    "customerNumber": {},
+    "lineAmountOfCreditLine": {},
+    "amountUsed": {},
+    "disbursedAmount": {},
+    "earmarkedAmountSublimits": {},
+    "earmarkedAmountLoans": {},
+    "availableBalance": {}
+  },
+  "sublimitDetail": {
+    "lineAmount": {},
+    "amountUsed": {},
+    "disbursedAmount": {},
+    "earmarkedAmountLoans": {},
+    "availableBalance": {}
+  }
+}

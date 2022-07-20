@@ -1,0 +1,31 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 0
+  },
+  "custId": {
+    "custPermId": "QUVTOiA3WXR6OEVJMEJNemkxTTIvSjdZK0x3PT0=",
+    "custPermIdMasked": "******0579"
+  },
+  "creditLineNumber": {
+    "custCreditLineNbr": "QUVTOiBoNzg3MTEzVWhYNTBDdGpXL0Uxb3dnPT0=",
+    "custCreditLineNbrMasked": "*******0099"
+  },
+  "automaticAdjustmentDetails": {
+    "automaticAdjustmentTimeTable": " ",
+    "automaticAdjustmentTimeTableValue": " ",
+    "automaticAdjustmentType": " ",
+    "automaticAdjustmentTypeValue": " ",
+    "automaticAdjustmentAmount": {},
+    "automaticAdjustmentPeriod": "Not applicable",
+    "automaticAdjustmentPeriodValue": " ",
+    "automaticAdjustmentFrequency": 0,
+    "automaticAdjustmentSpecificDay": 0
+  },
+  "automaticAdjustmentSchedule": []
+}

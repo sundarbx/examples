@@ -1,0 +1,201 @@
+{
+  "rqUID": {
+    "rqUID": "d9aae296-1e17-4f37-82ce-ba57ca3b984c"
+  },
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success",
+    "errorCount": 1,
+    "errors": [
+      {
+        "errDesc": "Account is closed",
+        "errDtl": "",
+        "errField": "",
+        "hostErrCode": "PS10041"
+      }
+    ]
+  },
+  "responseCode": "ACCEPTED_DISPLAY_VARIABLES",
+  "loanInquiryData": {
+    "loanInfo": {
+      "bankAcctId": {
+        "acctId": "QUVTOiBCRHpUVnRJK3BKc0ZNN0QwTE5tdGdRPT0=",
+        "acctIdMasked": "*********2983"
+      },
+      "branchId": "325",
+      "fullName": "Mr. Steve Martin",
+      "acctBals": [
+        {
+          "balType": "PayoffAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "EscrowBalance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "LateFeesDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "CurrentBalance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PrincipalDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "InterestDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "RebatableAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PaymentsPastDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "AvailableLoanAmount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "FeesDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "UnpaidInsurance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "PromptPaymentDiscount",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "FaceAmountOrig",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "LateInterestDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "TaxesDueUnpaidtax",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "balType": "InterestDueUnpaidaccruedint",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        }
+      ],
+      "extAcctBals": [
+        {
+          "extBalType": "InterestPaidYTD",
+          "curAmt": {
+            "amt": "9570.35"
+          }
+        },
+        {
+          "extBalType": "LateFeesPaid",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "extBalType": "EscrowDue",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "extBalType": "ScheduledBalance",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "extBalType": "PaymentOtherCharges",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        },
+        {
+          "extBalType": "InterestPaidLastyr",
+          "curAmt": {
+            "amt": "0.00"
+          }
+        }
+      ],
+      "lastTrnDt": "2018-03-12",
+      "lastStmtDt": "2006-03-10",
+      "intRate": 0,
+      "term": {
+        "count": 152
+      },
+      "activeMemoNum": 0,
+      "chgOffCode": "",
+      "nonAccrFlag": false,
+      "primOfficerCode": "POD",
+      "userCode1": "",
+      "userCode2": "",
+      "pmtSpreadRec": {
+        "princAmt": {},
+        "intAmt": {},
+        "escrowAmt": {},
+        "escrow2Amt": {},
+        "penaltyIntAmt": {},
+        "lateFeeAmt": {},
+        "feeInfos": []
+      }
+    },
+    "loanInfoCommon": {
+      "pmtCount": 0,
+      "remainingPmtCount": 0,
+      "collateralDesc": "",
+      "nextPmtCurAmt": {
+        "amt": "0.00"
+      },
+      "lastPmtDt": "2018-03-12",
+      "lastPmtCurAmt": {
+        "amt": "19570.35"
+      },
+      "pastDuePmtCount": 0,
+      "daysPastDue": 0
+    },
+    "acctAddr": {}
+  }
+}

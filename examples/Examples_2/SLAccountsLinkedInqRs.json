@@ -1,0 +1,82 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 4
+  },
+  "creditLineNumber": {},
+  "accountsLinked": [
+    {
+      "sublimit": 137,
+      "bankAcctId": {
+        "acctType": "DD",
+        "acctId": "QUVTOiBVaEswN2drRE0wYzlpUHcrRThyaFdBPT0=",
+        "acctIdMasked": "*********2783"
+      },
+      "applicationDesc": "Transaction - ACA",
+      "productCode": 12,
+      "productDescription": "PER C/A-TOD/ACA-FLAT FEE      ",
+      "subAccount": "200606801",
+      "outstandingBalance": {
+        "amt": "0.00",
+        "curCode": "HKD"
+      },
+      "earmarked": "Do not earmark available amount"
+    },
+    {
+      "sublimit": 137,
+      "bankAcctId": {
+        "acctType": "DD",
+        "acctId": "QUVTOiBVVisweTE1OUR4d1F4aXhGZ1JHN0JnPT0=",
+        "acctIdMasked": "*********2856"
+      },
+      "applicationDesc": "Transaction - ACA",
+      "productCode": 993,
+      "productDescription": "INACTIVE - DO NOT USE         ",
+      "subAccount": "200606801",
+      "outstandingBalance": {
+        "amt": "0.00",
+        "curCode": "HKD"
+      },
+      "earmarked": "Do not earmark available amount"
+    },
+    {
+      "sublimit": 137,
+      "bankAcctId": {
+        "acctType": "DD",
+        "acctId": "QUVTOiBkL05iVVc4aXU0WTgxNEV5M1ZGazlnPT0=",
+        "acctIdMasked": "*********2894"
+      },
+      "applicationDesc": "Transaction - ACA",
+      "productCode": 993,
+      "productDescription": "INACTIVE - DO NOT USE         ",
+      "subAccount": "200606901",
+      "outstandingBalance": {
+        "amt": "0.00",
+        "curCode": "HKD"
+      },
+      "earmarked": "Do not earmark available amount"
+    },
+    {
+      "sublimit": 137,
+      "bankAcctId": {
+        "acctType": "LN",
+        "acctId": "QUVTOiBBUmlPTnIzMC9CclVDaXBab3E2RzhBPT0=",
+        "acctIdMasked": "*********2990"
+      },
+      "applicationDesc": "Loan",
+      "productCode": 995,
+      "productDescription": "INACTIVE-DO NOT USE           ",
+      "subAccount": "000",
+      "outstandingBalance": {
+        "amt": "0.00",
+        "curCode": "HKD"
+      },
+      "earmarked": "Do not earmark available amount"
+    }
+  ]
+}

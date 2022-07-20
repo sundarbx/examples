@@ -1,0 +1,24 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "creditLineNumber": {
+    "custCreditLineNbr": "QUVTOiB3SmljTXFFVmZOdEpLU2taa1VRVk53PT0=",
+    "custCreditLineNbrMasked": "*******0108"
+  },
+  "custList": [
+    {
+      "custName": "Dealer ACA",
+      "customerId": {
+        "custPermId": "QUVTOiBrMXdCZ0F0blZUbXlScWFFOXphSUZnPT0=",
+        "custPermIdMasked": "******0217"
+      },
+      "liabilityType": "Guarantor",
+      "liabilityTypeValue": "1",
+      "numberOfLoans": 0,
+      "numberOfACA": 2
+    }
+  ]
+}

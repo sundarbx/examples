@@ -1,0 +1,53 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "recCtrlOut": {
+    "matchedRec": 0,
+    "sentRec": 1
+  },
+  "bankAcctId": {
+    "acctType": "LN",
+    "acctId": "QUVTOiBaeE5rMnhBUG8xSU1VQitGT3EvMlBnPT0=",
+    "acctIdMasked": "********00100"
+  },
+  "aliasBankAcctId": {},
+  "feesRebateInfo": [
+    {
+      "recordType": 32,
+      "rebateDescription": "CREDIT LIFE INSURANCE         ",
+      "originalAmount": {
+        "amt": "100.00"
+      },
+      "totalAmountRebatable": {
+        "amt": "100.00"
+      },
+      "amountEarnedToDate": {
+        "amt": "100.00"
+      },
+      "rebatableAmount": {
+        "amt": "0.00"
+      },
+      "minimumRebateAmount": {
+        "amt": "150.00"
+      },
+      "earnedYTD": {
+        "amt": "0.00"
+      },
+      "earnedMTD": {
+        "amt": "0.00"
+      },
+      "earningMethod": "Rule of 78ths",
+      "earningMethodValue": "3",
+      "nextEarningDate": "1999-10-01",
+      "earningSpecificDay": 1,
+      "companyCode": 2,
+      "effectiveDate": "1999-07-01",
+      "firstEarningDate": "1999-07-01",
+      "expiryDate": "2004-07-01",
+      "term": 60
+    }
+  ]
+}

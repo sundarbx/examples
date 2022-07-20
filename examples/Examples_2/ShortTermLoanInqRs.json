@@ -1,0 +1,25 @@
+{
+  "rqUID": {},
+  "status": {
+    "statusCode": 0,
+    "statusDesc": "Success"
+  },
+  "custId": {
+    "custPermId": "QUVTOiBDSlpWMFJ5VWp6VnFNOEx4ajRYQkpRPT0=",
+    "custPermIdMasked": "******1096"
+  },
+  "shortTermLoanInq": {
+    "outstandingBalance": {
+      "amt": "0.00"
+    },
+    "maximumAmount": {
+      "amt": "0.00"
+    },
+    "multRiskScore": 100,
+    "incrementAmount": 100,
+    "stlIsEligible": "Y",
+    "stlEligibilityAssess": 1,
+    "stlEligibilityFlag": "",
+    "stlRiskScore": 0
+  }
+}
